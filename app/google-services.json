@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "398644821816",
+    "firebase_url": "https://testbtl-38d34-default-rtdb.firebaseio.com",
+    "project_id": "testbtl-38d34",
+    "storage_bucket": "testbtl-38d34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398644821816:android:1c6993b8886843e83e8bcd",
+        "android_client_info": {
+          "package_name": "com.example.test_btl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRCkXhSkcPu4GfkWBeE-NkGspZWtU0upI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398644821816:android:45eb211f3624629e3e8bcd",
+        "android_client_info": {
+          "package_name": "com.testbtl123.btl123"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRCkXhSkcPu4GfkWBeE-NkGspZWtU0upI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
