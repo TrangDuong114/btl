@@ -51,6 +51,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this,tr_thong_ke.class);
         startActivity(intent);
 
+
+
+        //thau dổi 123
     }
 
 
